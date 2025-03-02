@@ -1,6 +1,6 @@
 <p align="center">
     <h1 align="center">🎼 Partoche</h1>
-    <p align="center">Terminal based pew pew map that feeds on <a href="https://github.com/bonjourmalware/melody">Melody logs</a></p>
+    <p align="center">Terminal based pew pew map that feeds on <a href="https://github.com/ma111e/melody">Melody logs</a></p>
 </p>
 
 <p align="center">
